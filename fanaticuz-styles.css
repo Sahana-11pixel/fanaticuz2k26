@@ -259,7 +259,7 @@ body {
 
 .title-year {
     display: block;
-    font-size: 12em;
+    font-size: 0.6em;
     color: var(--color-red);
     text-shadow: 
         0 0 20px rgba(229, 9, 20, 1),
